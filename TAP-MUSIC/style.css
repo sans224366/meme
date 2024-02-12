@@ -41,26 +41,52 @@ section {
 }
 
 .pad1 {
+    transition-duration: 500ms;
     background-color: #03045E;
+}
+.pad1:hover {
+    transition-duration: 500ms;
+    background-color: #4e4f8e;
 }
 
 .pad2 {
+    transition-duration: 500ms;
     background-color: #0077B6;
 }
 
-.pad3 {
+.pad2:hover {
+    transition-duration: 500ms;
+    background-color: #3292c4;
+}
 
+.pad3 {
+    transition-duration: 500ms;
     background-color: #00B4D8;
 }
 
-.pad4 {
+.pad3:hover {
+    transition-duration: 500ms;
+    background-color: #4ccae3;
+}
 
+.pad4 {
+    transition-duration: 500ms;
     background-color: #90E0EF;
 }
 
-.pad5 {
+.pad4:hover {
+    transition-duration: 500ms;
+    background-color: #bcecf5;
+}
 
+.pad5 {
+    transition-duration: 500ms;
     background-color: #CAF0F8;
+}
+
+.pad5:hover {
+    transition-duration: 500ms;
+    background-color: #dff6fa;
 }
 
 .choosen {
